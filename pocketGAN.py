@@ -1,8 +1,6 @@
 
 # -*- coding: utf-8 -*-
 
-# generate new kinds of pokemons
-
 import os
 import tensorflow as tf
 import numpy as np
